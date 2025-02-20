@@ -12,13 +12,6 @@ I am a Full Stack Developer looking for opportunities in the Software industry.
 * 🧠  I'm learning React
 * ⚡  I am Batman
 
-### 🎮 Mini Game: Click the Button!
-
-Click the button below to increment the counter!
-
-[![Button Clicks](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/GhanasyamS/6df4a50945fa5c20dd4224f53e23f335/raw/counter.json&label=Button%20Clicks&query=$.count&color=blue)](https://GhanasyamS.github.io/game-clicker/)
-
-[![Click Me](https://img.shields.io/badge/Click%20Me!-BrightGreen?style=for-the-badge&logo=github)](https://GhanasyamS.github.io/game-clicker/)
 
 
 ### Skills
