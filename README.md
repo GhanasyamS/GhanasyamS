@@ -1,3 +1,4 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ghanasyam S
 ===================================================================================================================================
 
@@ -11,6 +12,13 @@ I am a Full Stack Developer looking for opportunities in the Software industry.
 * 🧠  I'm learning React
 * ⚡  I am Batman
 
+### 🎮 Mini Game: Click the Button!
+
+Click the button below to increment the counter!
+
+[![Button Clicks](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/your-username/gist-id/raw/counter.json&label=Button%20Clicks&query=count&color=blue)](https://your-github-pages-link-or-api-endpoint)
+
+[![Click Me](https://img.shields.io/badge/Click%20Me!-BrightGreen?style=for-the-badge&logo=github)](https://your-github-pages-link-or-api-endpoint)
 ### Skills
 
 
