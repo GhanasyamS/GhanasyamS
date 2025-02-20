@@ -7,7 +7,7 @@ Full Stack Developer
 I am a Full Stack Developer looking for opportunities in the Software industry.
 
 * 🌍  I'm based in Kerala, India
-* ✉️  You can contact me at [ghanasyams,gs@gmail.com](mailto:ghanasyams,gs@gmail.com)
+* ✉️  You can contact me at [ghanasyams,gs@gmail.com](mailto:ghanasyams.gs@gmail.com)
 * 🧠  I'm learning React
 * ⚡  I am Batman
 
