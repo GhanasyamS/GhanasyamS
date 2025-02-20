@@ -14,11 +14,28 @@ I am a Full Stack Developer looking for opportunities in the Software industry.
 
 ### 🎮 Mini Game: Click the Button!
 
-Click the button below to increment the counter!
+<button id="clickMe">Click Me!</button>
+<script>
+  document.getElementById('clickMe').addEventListener('click', async () => {
+    await fetch('https://api.github.com/gists/6df4a50945fa5c20dd4224f53e23f335', {
+      method: 'PATCH',
+      headers: {
+        'Authorization': 'Bearer your-github-token',
+        'Accept': 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        files: {
+          'counter.json': {
+            content: JSON.stringify({ count: (await (await fetch('https://gist.githubusercontent.com/GhanasyamS/6df4a50945fa5c20dd4224f53e23f335/raw/counter.json')).json()).count + 1 })
+          }
+        }
+      })
+    });
+    alert("Counter Updated!");
+  });
+</script>
 
-[![Button Clicks](https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/your-username/gist-id/raw/counter.json&label=Button%20Clicks&query=count&color=blue)](https://your-github-pages-link-or-api-endpoint)
-
-[![Click Me](https://img.shields.io/badge/Click%20Me!-BrightGreen?style=for-the-badge&logo=github)](https://your-github-pages-link-or-api-endpoint)
 ### Skills
 
 
