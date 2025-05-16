@@ -59,6 +59,6 @@
 
 ### 🔥 Featured Projects
 
-<a href="https://github.com/GhanasyamS/React-Practice">
+<a href="https://github.com/GhanasyamS/Keep-Note-Final">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhanasyamS&repo=React-Practice&theme=dark&title_color=ef4444&text_color=22c55e&icon_color=facc15&hide_border=true" />
 </a>
