@@ -6,30 +6,14 @@
 
 ---
 
-## 🚀 About Me
-
-<div align="center">
-  
-🔥 **Full Stack Developer** blazing trails from **Kerala, India** 🌴  
-🦇 **Part-time Batman**, full-time code warrior  
-⚡ Currently mastering **React**, **Java**, and **Spring Boot**  
-🎯 Building applications that don't just work—they **dominate**  
-💼 **Available for hire** • Let's create something legendary  
-
-</div>
-
-### What I'm Up To:
-- 🔭 Currently building **full stack applications** that matter
-- 🌱 Deep diving into **React** ecosystem & mastering **Java Spring Boot**
-- 💡 Always exploring cutting-edge technologies
-- 🎯 2024 Goal: Contribute to more open source projects
-- 📫 Let's connect: **[ghanasyams.gs@gmail.com](mailto:ghanasyams.gs@gmail.com)**
-
-<div align="center">
-  
-**"Code hard, ship harder"** 🚀
-  
-</div>
+const ghanasyam = {
+    location: "Kerala, India",
+    role: "Full Stack Developer",
+    currentFocus: ["React", "Java", "Spring Boot", "Full Stack Applications"],
+    funFact: "I am Batman 🦇",
+    motto: "Code. Create. Conquer.",
+    availableForWork: true
+};
 
 - 🔭 Currently building **full stack applications** that matter
 - 🌱 Deep diving into **React** ecosystem & mastering **Java Spring Boot**
