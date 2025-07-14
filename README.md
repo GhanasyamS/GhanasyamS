@@ -5,7 +5,7 @@
 </div>
 
 ---
-
+```
 const ghanasyam = {
     location: "Kerala, India",
     role: "Full Stack Developer",
@@ -14,6 +14,7 @@ const ghanasyam = {
     motto: "Code. Create. Conquer.",
     availableForWork: true
 };
+```
 
 - 🔭 Currently building **full stack applications** that matter
 - 🌱 Deep diving into **React** ecosystem & mastering **Java Spring Boot**
