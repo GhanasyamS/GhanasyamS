@@ -9,12 +9,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@master
         with:
           github_user_name: GhanasyamS
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push animation
+      - name: Push animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
