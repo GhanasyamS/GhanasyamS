@@ -6,7 +6,8 @@
 
 ---
 ```
-const ghanasyam = {
+const ghanasyam = 
+{
     location: "Kerala, India",
     role: "Full Stack Developer",
     currentFocus: ["React", "Java", "Spring Boot", "Full Stack Applications"],
