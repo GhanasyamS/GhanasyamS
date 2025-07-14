@@ -58,8 +58,9 @@ const ghanasyam = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanasyamS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF"/>
 </div>
 <div align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=GhanasyamS&theme=dark&hide_border=false)<br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GhanasyamS&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
