@@ -58,7 +58,7 @@ const ghanasyam = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanasyamS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF"/>
 </div>
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhanasyamS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
