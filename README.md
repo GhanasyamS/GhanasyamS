@@ -6,18 +6,34 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const ghanasyam = {
-    location: "Kerala, India",
-    role: "Full Stack Developer",
-    currentFocus: ["React", "Java", "Spring Boot", "Full Stack Applications"],
-    funFact: "I am Batman 🦇",
-    motto: "Code. Create. Conquer.",
-    availableForWork: true
-};
-```
+🚀 About Me
+<div align="center">
+🌍 Based in Kerala, India | 💻 Full Stack Developer | 🦇 Batman in disguise
+  <br/>
+  <table>
+    <tr>
+      <td>🔥 Current Focus</td>
+      <td><strong>React • Java • Spring Boot • Full Stack Magic</strong></td>
+    </tr>
+    <tr>
+      <td>⚡ Superpower</td>
+      <td><strong>Turning coffee into code</strong></td>
+    </tr>
+    <tr>
+      <td>🎯 Mission</td>
+      <td><strong>Building the future, one commit at a time</strong></td>
+    </tr>
+    <tr>
+      <td>💼 Status</td>
+      <td><strong>Available for epic projects</strong></td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
 - 🔭 Currently building **full stack applications** that matter
 - 🌱 Deep diving into **React** ecosystem & mastering **Java Spring Boot**
