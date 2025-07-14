@@ -59,7 +59,7 @@ const ghanasyam = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhanasyamS&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF94&ring=00FF94&fire=00FF94&currStreakLabel=00FF94&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=GhanasyamS&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF94&ring=00FF94&fire=00FF94&currStreakLabel=00FF94&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ---
