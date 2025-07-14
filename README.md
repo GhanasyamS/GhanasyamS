@@ -12,7 +12,7 @@
 const ghanasyam = {
     location: "Kerala, India",
     role: "Full Stack Developer",
-    currentFocus: ["React", "Java", "Full Stack Applications"],
+    currentFocus: ["React", "Java", "Spring Boot", "Full Stack Applications"],
     funFact: "I am Batman 🦇",
     motto: "Code. Create. Conquer.",
     availableForWork: true
@@ -20,7 +20,7 @@ const ghanasyam = {
 ```
 
 - 🔭 Currently building **full stack applications** that matter
-- 🌱 Deep diving into **React** ecosystem & mastering **Java**
+- 🌱 Deep diving into **React** ecosystem & mastering **Java Spring Boot**
 - 💡 Always exploring cutting-edge technologies
 - 🎯 2024 Goal: Contribute to more open source projects
 - 📫 Let's connect: **[ghanasyams.gs@gmail.com](mailto:ghanasyams.gs@gmail.com)**
@@ -36,7 +36,7 @@ const ghanasyam = {
 
 ### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,mysql" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql" alt="Backend Skills"/>
 </p>
 
 ### Tools & DevOps
