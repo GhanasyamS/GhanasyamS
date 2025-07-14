@@ -46,7 +46,7 @@ const ghanasyam = {
 
 ### Creative Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=canva" alt="Creative Tools"/>
+  <img src="https://skillicons.dev/icons?i=premiere" alt="Creative Tools"/>
 </p>
 
 ---
@@ -56,6 +56,10 @@ const ghanasyam = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhanasyamS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF&icon_color=00FF94"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanasyamS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=GhanasyamS&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF94&ring=00FF94&fire=00FF94&currStreakLabel=00FF94&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -120,5 +124,5 @@ const ghanasyam = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/GhanasyamS/GhanasyamS/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
