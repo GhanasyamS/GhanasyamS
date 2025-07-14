@@ -121,6 +121,10 @@ const ghanasyam =
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GhanasyamS/GhanasyamS/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhanasyamS/GhanasyamS/output/github-snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GhanasyamS/GhanasyamS/output/github-snake.svg" />
+  </picture>
 </div>
+
 
