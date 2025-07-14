@@ -1,62 +1,128 @@
-<h1 align="center">Hi 👋, I'm Ghanasyam S</h1>
-<h3 align="center">A Full Stack Developer from Kerala, India</h3>
+# Hi there! 👋 I'm **Ghanasyam S** 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Kerala%2C+India;Building+Amazing+Web+Applications;Always+Learning+New+Technologies;I+Am+Batman+%F0%9F%A6%87" alt="Typing SVG" />
+</div>
 
 ---
 
-🌟 **About Me**  
-- 🔭 I’m currently working on building full stack applications  
-- 🌱 I’m learning **React** and deepening my understanding of **Java**  
-- 📫 Reach me at **[ghanasyams.gs@gmail.com](mailto:ghanasyams.gs@gmail.com)**  
-- ⚡ Fun fact: **I am Batman** 🦇  
+## 🚀 About Me
+
+```javascript
+const ghanasyam = {
+    location: "Kerala, India",
+    role: "Full Stack Developer",
+    currentFocus: ["React", "Java", "Full Stack Applications"],
+    funFact: "I am Batman 🦇",
+    motto: "Code. Create. Conquer.",
+    availableForWork: true
+};
+```
+
+- 🔭 Currently building **full stack applications** that matter
+- 🌱 Deep diving into **React** ecosystem & mastering **Java**
+- 💡 Always exploring cutting-edge technologies
+- 🎯 2024 Goal: Contribute to more open source projects
+- 📫 Let's connect: **[ghanasyams.gs@gmail.com](mailto:ghanasyams.gs@gmail.com)**
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Tech Arsenal
 
+### Frontend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" alt="Babel" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" alt="Premiere Pro" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" alt="VS Code" width="36" height="36"/>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" alt="Frontend Skills"/>
+</p>
+
+### Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,mysql" alt="Backend Skills"/>
+</p>
+
+### Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,aws,webpack,babel,vscode" alt="Tools"/>
+</p>
+
+### Creative Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=premiere" alt="Creative Tools"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ghanasyam-s" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-  <a href="https://www.github.com/GhanasyamS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
-  <a href="https://discord.com/users/nazalezious" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" /></a>
-  <a href="http://www.instagram.com/_irontheartz_" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
-  <a href="https://www.threads.net/@_ironheartz_" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" /></a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhanasyamS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF&icon_color=00FF94"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanasyamS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF"/>
+</div>
 
----
-
-### 📊 GitHub Stats
-
-
-<a href="https://github.com/GhanasyamS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GhanasyamS&show_icons=true&theme=dark&title_color=ef4444&text_color=22c55e&icon_color=facc15&hide_border=true" />
-</a>
-
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhanasyamS&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF94&ring=00FF94&fire=00FF94&currStreakLabel=00FF94&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
+</div>
 
 ---
 
-### 🔥 Featured Projects
+## 🏆 GitHub Trophies
 
-<a href="https://github.com/GhanasyamS/Keep-Note-Final">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhanasyamS&repo=Keep-Note-Final&theme=dark&title_color=ef4444&text_color=22c55e&icon_color=facc15&hide_border=true" />
-</a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GhanasyamS&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/GhanasyamS/Keep-Note-Final">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhanasyamS&repo=Keep-Note-Final&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF&icon_color=00FF94" />
+  </a>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhanasyamS&theme=tokyo-night&bg_color=0D1117&color=00FF94&line=00FF94&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ghanasyam-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.github.com/GhanasyamS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://discord.com/users/nazalezious" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="http://www.instagram.com/_irontheartz_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.threads.net/@_ironheartz_" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GhanasyamS&color=00FF94&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <h3>💻 "Code is like humor. When you have to explain it, it's bad." 💻</h3>
+  <p><i>~ Building the future, one commit at a time ~</i></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
