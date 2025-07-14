@@ -59,10 +59,6 @@ const ghanasyam = {
 </div>
 
 
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmochahary&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-</div>
-
 
 ---
 
