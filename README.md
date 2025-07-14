@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Stats
 
-<!-- Enable Java to show up in your "Top Languages" section -->
+
 <a href="https://github.com/GhanasyamS">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GhanasyamS&show_icons=true&theme=dark&title_color=ef4444&text_color=22c55e&icon_color=facc15&hide_border=true" />
 </a>
