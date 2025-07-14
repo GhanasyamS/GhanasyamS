@@ -60,8 +60,10 @@ const ghanasyam = {
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhanasyamS&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF94&ring=00FF94&fire=00FF94&currStreakLabel=00FF94&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GhanasyamS&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanasyamS&layout=compact&theme=vue-dark&hide_border=false&langs_count=8" />
 </div>
+
 
 ---
 
