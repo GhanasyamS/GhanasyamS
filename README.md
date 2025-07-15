@@ -39,7 +39,7 @@ const ghanasyam =
 
 ### Tools & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,aws,webpack,babel,vscode" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,aws,webpack,babel,vscode" alt="Tools"/>
 </p>
 
 ### Creative Tools
