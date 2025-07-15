@@ -44,8 +44,10 @@ const ghanasyam =
 
 ### Creative Tools
 <p align="left">
- <img src="https://skillicons.dev/icons?i=canva,premiere" alt="Creative Tools"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40" height="40" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=premiere" alt="Premiere" />
 </p>
+
 
 ---
 
