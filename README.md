@@ -44,7 +44,7 @@ const ghanasyam =
 
 ### Creative Tools
 <p align="left">
-  <img src="[https://img.icons8.com/color/48/000000/canva.png](https://freepnglogo.com/images/all_img/1691829322canva-app-logo-png.png)" width="40" height="40" alt="Canva" />
+  <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" height="40" alt="Canva" />
   <img src="https://skillicons.dev/icons?i=premiere" alt="Premiere" />
 </p>
 
