@@ -106,7 +106,7 @@ const ghanasyam =
   <a href="https://discord.com/users/nazalezious" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="hhttps://www.instagram.com/_ironheartz_/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/_ironheartz_/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.threads.net/@_ironheartz_" target="_blank" rel="noopener noreferrer">
