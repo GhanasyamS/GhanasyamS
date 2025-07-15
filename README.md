@@ -109,6 +109,10 @@ const ghanasyam =
   <a href="https://www.threads.net/@_ironheartz_" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
+  <a href="https://drive.google.com/your-resume-link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+
 </div>
 
 ---
