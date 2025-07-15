@@ -97,26 +97,26 @@ const ghanasyam =
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ghanasyam-s" target="_blank">
+  <a href="https://www.linkedin.com/in/ghanasyam-s" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.github.com/GhanasyamS" target="_blank">
+  <a href="https://www.github.com/GhanasyamS" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://discord.com/users/nazalezious" target="_blank">
+  <a href="https://discord.com/users/nazalezious" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="http://www.instagram.com/_irontheartz_" target="_blank">
+  <a href="http://www.instagram.com/_irontheartz_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.threads.net/@_ironheartz_" target="_blank">
+  <a href="https://www.threads.net/@_ironheartz_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
-  <a href="https://drive.google.com/file/d/1GZ_fmPEkJHQuiZqHT_CcOy3aMSwBTlBB/view?usp=sharing" target="resume">
+  <a href="https://drive.google.com/file/d/1GZ_fmPEkJHQuiZqHT_CcOy3aMSwBTlBB/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
-
 </div>
+
 
 ---
 
