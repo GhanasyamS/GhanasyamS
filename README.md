@@ -112,7 +112,7 @@ const ghanasyam =
   <a href="https://www.threads.net/@_ironheartz_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
-  <a href="https://drive.google.com/file/d/1UFIjn4qHNa8RAFYh_B0F4ZthjwNpIkTx/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1uK9eWGoaU9JJrdAe47TjwTV23bTibcqB/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </div>
