@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm **Ghanasyam S** 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Kerala%2C+India;Building+Amazing+Web+Applications;Always+Learning+New+Technologies+%F0%9F%A6%87" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Kerala%2C+India;Building+Amazing+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +11,7 @@ const ghanasyam =
     location: "Kerala, India",
     role: "Full Stack Developer",
     currentFocus: ["React", "Java", "Spring Boot", "Full Stack Applications"],
-    funFact: "I am Batman 🦇",
+    funFact: "MBTI: ENTJ-T – The Commander (Driven, Visionary, Decisive)",
     motto: "Code. Create. Conquer.",
     availableForWork: true
 };
@@ -44,7 +44,7 @@ const ghanasyam =
 
 ### Creative Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=premiere" alt="Creative Tools"/>
+ <img src="https://skillicons.dev/icons?i=canva,premiere" alt="Creative Tools"/>
 </p>
 
 ---
@@ -70,7 +70,11 @@ const ghanasyam =
 ---
 
 ## 🔥 Featured Projects
-
+<div align="center">
+  <a href="https://github.com/GhanasyamS/ZenKanban">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhanasyamS&repo=ZenKanban&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF&icon_color=00FF94" />
+  </a>
+</div>
 <div align="center">
   <a href="https://github.com/GhanasyamS/Keep-Note-Final">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhanasyamS&repo=Keep-Note-Final&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF&icon_color=00FF94" />
