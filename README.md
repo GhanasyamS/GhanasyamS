@@ -34,7 +34,7 @@ const ghanasyam =
 
 ### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,mongodb" alt="Backend Skills"/>
 </p>
 
 ### Tools & DevOps
