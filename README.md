@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm **Ghanasyam S** 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Kerala%2C+India;Building+Amazing+Web+Applications;Always+Learning+New+Technologies;I+Am+Batman+%F0%9F%A6%87" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Kerala%2C+India;Building+Amazing+Web+Applications;Always+Learning+New+Technologies+%F0%9F%A6%87" alt="Typing SVG" />
 </div>
 
 ---
