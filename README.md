@@ -20,7 +20,7 @@ const ghanasyam =
 - 🔭 Currently building **full stack applications** that matter
 - 🌱 Deep diving into **React** ecosystem & mastering **Java Spring Boot**
 - 💡 Always exploring cutting-edge technologies
-- 🎯 2024 Goal: Contribute to more open source projects
+- 🎯 2025 Goal: Contribute to more projects
 - 📫 Let's connect: **[ghanasyams.gs@gmail.com](mailto:ghanasyams.gs@gmail.com)**
 
 ---
